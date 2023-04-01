@@ -7,7 +7,7 @@ function Home() {
  
       <section className="flex flex-col gap-3">
  
-        <div className="lg:w-2/3">
+        <div>
           <Chat />
         </div>
       </section>
